@@ -8,8 +8,6 @@
 - I also created a number of smaller projects on my self learning journey as a developer, such as [this website which allows you to create customized movie lists with bookmarks](https://github.com/res11r/rails-watch-list/),
 [a random quote generator](https://github.com/res11r/Project-1-Random-Quote-Generator), a [simple calculator](https://github.com/res11r/calculator) and an [etch-a-sketch game](https://github.com/res11r/etch-a-sketch)
 
-- 📫 How to reach me **ahmed.alhashmi44@gmail.com**
-
 <p align="left">
 </p>
 
