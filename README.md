@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate fullstack developer from UAE</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 You can check out my contributions to [Hangry](https://github.com/eisalserkal/hangry) and [The Metaverse](https://github.com/eisalserkal/the-metaverse)
 
